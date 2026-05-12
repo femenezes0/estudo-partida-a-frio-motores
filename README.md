@@ -1,7 +1,6 @@
-# Estudo sobre partida a frio em motores de combustão interna
-
-Este repositório reúne anotações, resumos e organização de ideias para um trabalho acadêmico sobre eficiência na partida a frio de motores de combustão interna.
-
 ## Arquivos
 
-- [Resumo do artigo sobre cold-start efficiency](resumo-artigo-cold-start-efficiency.md)
+- [Resumo do artigo sobre partida a frio](resumo-artigo-cold-start-efficiency.md)
+- [Síntese do trabalho de Metodologia Científica](sintese-trabalho-metodologia.md)
+- [Guia sobre estrutura lógica do texto científico](guia-estrutura-logica-texto-cientifico.md)
+- [Referências utilizadas](referencias.md)
