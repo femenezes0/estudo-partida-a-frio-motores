@@ -1,161 +1,188 @@
 # Guia: Estrutura Lógica do Texto Científico
 
-Este guia reúne os principais conceitos sobre a estrutura lógica de um texto científico, com base nos materiais de Metodologia Científica. A ideia central é compreender como transformar um tema técnico em uma tese demonstrada por meio de argumentos e raciocínio lógico.
+Este guia reúne os principais conceitos relacionados à construção lógica de um texto científico, aplicados ao tema da pesquisa:
+
+**Eficiência Energética em Motores de Combustão Interna: Uma Revisão das Estratégias de Controle e Automação Aplicadas ao Gerenciamento Térmico.**
 
 ---
 
-## 1. Objetivo de um trabalho científico dissertativo
+# 1. Objetivo de um Trabalho Científico Dissertativo
 
-O objetivo principal de um trabalho científico em forma dissertativa é demonstrar uma tese. Essa tese funciona como uma solução proposta para um problema relacionado a um tema específico.
+O objetivo de um trabalho científico dissertativo é responder a um problema de pesquisa por meio da análise lógica de informações obtidas na literatura.
 
-Essa demonstração ocorre por meio da organização lógica de ideias, fatos, argumentos e conclusões.
+A resposta ao problema é construída a partir da articulação entre conceitos, argumentos, evidências e conclusões.
 
----
-
-## 2. Formulação do problema
-
-Um problema científico deve ser formulado de forma clara, definida e delimitada.
-
-Ele deve aparecer em forma de pergunta, pois representa uma dúvida, lacuna ou obstáculo que precisa ser investigado.
-
-Exemplo aplicado ao tema:
-
-> De que maneira o controle ativo do fluxo de lubrificante pode reduzir as perdas por atrito durante a partida a frio de motores de combustão interna?
+Em uma revisão bibliográfica, essa demonstração ocorre por meio da análise crítica de estudos já publicados.
 
 ---
 
-## 3. Hipótese
+# 2. Formulação do Problema
 
-A hipótese é uma solução inicial e plausível para o problema de pesquisa.
+O problema científico deve ser formulado como uma pergunta clara, objetiva e delimitada.
 
-Ela ainda precisa ser sustentada por argumentos, dados ou raciocínio lógico.
+No presente estudo, o problema de pesquisa é:
 
-Exemplo aplicado ao tema:
+> De que forma os sistemas de controle e automação contribuem para o aumento da eficiência energética em motores de combustão interna?
 
-> O controle ativo do fluxo de lubrificante pode reduzir as perdas por atrito ao permitir que o óleo atinja mais rapidamente uma temperatura adequada de operação.
-
----
-
-## 4. Argumentação científica
-
-A argumentação científica pode se apoiar em duas fontes principais:
-
-- evidência racional;
-- evidência dos fatos.
-
-A evidência racional depende da lógica e do raciocínio.  
-A evidência dos fatos depende de dados, experimentos, estatísticas ou informações observadas.
-
-Exemplo aplicado ao tema:
-
-> Durante a partida a frio, o óleo lubrificante apresenta maior viscosidade. Como a viscosidade elevada aumenta as perdas por atrito, estratégias que aceleram o aquecimento do óleo podem melhorar a eficiência do motor.
+Essa pergunta orienta toda a investigação bibliográfica e a seleção das referências utilizadas.
 
 ---
 
-## 5. Raciocínio dedutivo e indutivo
+# 3. Hipótese
 
-### Dedução
+A hipótese corresponde a uma resposta provisória para o problema de pesquisa.
 
-A dedução parte de uma ideia geral para chegar a uma conclusão específica.
+No contexto deste trabalho, pode-se considerar a seguinte hipótese:
+
+> Os sistemas de controle e automação contribuem para o aumento da eficiência energética dos motores de combustão interna ao otimizar o gerenciamento térmico, reduzir perdas energéticas e melhorar as condições de operação do motor.
+
+A hipótese será analisada à luz das evidências encontradas na literatura.
+
+---
+
+# 4. Argumentação Científica
+
+A argumentação científica é construída por meio de evidências teóricas e empíricas.
+
+## Evidência racional
+
+Baseia-se em conceitos e relações lógicas.
 
 Exemplo:
 
-> Se óleos mais viscosos geram maior atrito, e o óleo frio é mais viscoso, então o motor em partida a frio apresenta maiores perdas por atrito.
+> A viscosidade do óleo lubrificante aumenta em baixas temperaturas. Como a viscosidade elevada aumenta o atrito interno, a partida a frio reduz a eficiência energética do motor.
 
-### Indução
+## Evidência dos fatos
 
-A indução parte de dados ou casos específicos para chegar a uma conclusão mais geral.
-
-Exemplo:
-
-> Se estudos mostram redução de consumo com estratégias de gerenciamento térmico, pode-se inferir que o controle térmico contribui para melhorar a eficiência na partida a frio.
-
----
-
-## 6. Antecedente e consequente
-
-O antecedente é a base lógica, ou seja, a premissa.
-
-O consequente é a conclusão que resulta dessa premissa.
+Baseia-se em resultados apresentados por pesquisas científicas.
 
 Exemplo:
 
-**Antecedente:** o óleo frio possui maior viscosidade.  
-**Consequente:** o motor sofre maiores perdas por atrito durante a partida a frio.
+> Estudos indicam que sistemas inteligentes de gerenciamento térmico podem reduzir o consumo de combustível entre 3% e 5% em determinadas condições de operação.
 
 ---
 
-## 7. Análise e síntese
+# 5. Raciocínio Dedutivo e Indutivo
 
-### Análise
+## Dedução
 
-A análise consiste em dividir um tema complexo em partes menores para compreendê-lo melhor.
+Parte de princípios gerais para chegar a uma conclusão específica.
 
-No estudo da partida a frio, podem ser analisados separadamente:
+Exemplo:
 
-- temperatura do motor;
-- viscosidade do óleo;
-- atrito;
-- consumo de combustível;
-- emissões;
-- catalisador;
-- sistemas de controle térmico.
+> Motores operam com maior eficiência em sua temperatura ideal. O gerenciamento térmico permite alcançar essa temperatura mais rapidamente. Portanto, o gerenciamento térmico pode contribuir para melhorar a eficiência energética.
 
-### Síntese
+## Indução
 
-A síntese reúne essas partes novamente para formar uma conclusão geral.
+Parte de observações específicas para formular conclusões gerais.
 
-Exemplo de síntese:
+Exemplo:
 
-> A partida a frio reduz a eficiência do motor porque envolve baixa temperatura dos componentes, óleo mais viscoso, maior atrito e menor eficiência do catalisador. Por isso, estratégias de gerenciamento térmico podem contribuir para reduzir consumo e emissões.
+> Diversos estudos relatam reduções de consumo e emissões após a implementação de estratégias de gerenciamento térmico. Assim, pode-se inferir que essas estratégias contribuem para a eficiência energética dos motores.
 
 ---
 
-## 8. Tese
+# 6. Antecedente e Consequente
 
-A tese é a conclusão final demonstrada pelo trabalho.
+O antecedente representa a premissa lógica.
 
-Exemplo aplicado ao tema:
+O consequente representa a conclusão derivada dessa premissa.
 
-> O gerenciamento térmico ativo é uma estratégia relevante para melhorar a eficiência de motores de combustão interna durante a partida a frio, pois reduz perdas por atrito, contribui para o aquecimento mais rápido do sistema e pode diminuir consumo de combustível e emissões.
+Exemplo:
+
+**Antecedente:** a baixa temperatura aumenta a viscosidade do óleo lubrificante.
+
+**Consequente:** o aumento da viscosidade provoca maiores perdas por atrito e reduz a eficiência energética do motor.
 
 ---
 
-## 9. Glossário básico
+# 7. Análise e Síntese
 
-**Conceito:** representação mental de um objeto ou ideia.  
-Exemplo: viscosidade.
+## Análise
 
-**Juízo:** afirmação ou negação sobre um conceito.  
-Exemplo: o óleo frio aumenta o atrito.
+Consiste em decompor o tema em elementos menores para facilitar sua compreensão.
 
-**Premissa:** afirmação usada como base para um argumento.  
-Exemplo: óleo mais viscoso dificulta o movimento das peças.
+Neste trabalho, podem ser analisados separadamente:
 
-**Raciocínio:** encadeamento lógico de premissas até uma conclusão.
+* eficiência energética;
+* partida a frio;
+* atrito interno;
+* gerenciamento térmico;
+* sensores;
+* ECUs;
+* atuadores eletrônicos;
+* controle PID;
+* controle fuzzy;
+* controle preditivo.
 
-**Problema:** pergunta científica que orienta a investigação.
+## Síntese
+
+Consiste em integrar os elementos analisados para construir uma compreensão geral do fenômeno.
+
+Exemplo:
+
+> A eficiência energética dos motores depende de diversos fatores térmicos e mecânicos. Os sistemas de controle e automação permitem monitorar e controlar essas variáveis, contribuindo para a redução do consumo de combustível e das emissões.
+
+---
+
+# 8. Tese
+
+A tese corresponde à conclusão central que o trabalho pretende sustentar.
+
+Neste estudo, a tese pode ser formulada da seguinte forma:
+
+> Os sistemas de controle e automação aplicados ao gerenciamento térmico constituem ferramentas relevantes para aumentar a eficiência energética dos motores de combustão interna, pois permitem reduzir perdas energéticas, otimizar as condições de operação e minimizar emissões de poluentes.
+
+---
+
+# 9. Glossário Básico
+
+**Conceito:** representação mental de um objeto ou fenômeno.
+
+Exemplo: eficiência energética.
+
+**Juízo:** afirmação sobre determinado conceito.
+
+Exemplo: o gerenciamento térmico melhora o desempenho do motor.
+
+**Premissa:** afirmação utilizada como base para um argumento.
+
+Exemplo: motores apresentam menor eficiência durante a partida a frio.
+
+**Raciocínio:** encadeamento lógico de premissas e conclusões.
+
+**Problema:** pergunta científica que orienta a pesquisa.
 
 **Hipótese:** resposta provisória ao problema.
 
-**Argumento:** justificativa usada para sustentar a hipótese.
+**Argumento:** justificativa utilizada para sustentar uma hipótese.
 
-**Tese:** conclusão final defendida no trabalho.
+**Tese:** conclusão defendida pelo trabalho.
 
 ---
 
-## 10. Aplicação ao tema
+# 10. Aplicação ao Tema
 
-A estrutura lógica do trabalho pode ser organizada da seguinte forma:
+## Tema
 
-**Tema:** eficiência energética em motores de combustão interna.
+Eficiência energética em motores de combustão interna.
 
-**Delimitação:** partida a frio e gerenciamento térmico do sistema de lubrificação.
+## Delimitação
 
-**Problema:** de que maneira o controle ativo do fluxo de lubrificante pode reduzir perdas por atrito durante a partida a frio?
+Estratégias de controle e automação aplicadas ao gerenciamento térmico.
 
-**Hipótese:** o controle ativo do fluxo de lubrificante acelera o aquecimento do óleo, reduz sua viscosidade e diminui as perdas por atrito.
+## Problema
 
-**Argumento principal:** a baixa temperatura aumenta a viscosidade do óleo, e a maior viscosidade aumenta o atrito interno do motor.
+De que forma os sistemas de controle e automação contribuem para o aumento da eficiência energética em motores de combustão interna?
 
-**Tese:** estratégias automatizadas de gerenciamento térmico podem melhorar a eficiência do motor na partida a frio, reduzindo consumo de combustível e emissões.
+## Hipótese
+
+Os sistemas de controle e automação aumentam a eficiência energética dos motores ao otimizar o gerenciamento térmico e reduzir perdas energéticas.
+
+## Argumento Principal
+
+O gerenciamento térmico adequado reduz atrito, melhora a combustão e permite que o motor opere mais próximo de sua condição ideal de eficiência.
+
+## Tese
+
+As estratégias de controle e automação representam uma abordagem eficaz para aumentar a eficiência energética dos motores de combustão interna, contribuindo para a redução do consumo de combustível e das emissões de poluentes.
